@@ -6,6 +6,6 @@ public class InputOutput{
   String nama;
   System.out.print("Rofi'ah: ");
   nama = scanner.nextLine();
-
+  System.out.println("Hai, "+nama);
  }
 }
